@@ -1,0 +1,26 @@
+1. pull to refresh - done
+	1.1 create update function that loads the first 20 tweets
+	count, sinceid, maxid
+	1.2 reload tableview data
+2. get the next 20 tweets when reaching the last cell - done (toast error, etc)
+	2.1 implement cellwilldisplay
+	2.2 get next 10, update the tweet array
+	2.3 tableview reload
+3. compose view
+	3.1 create compose client function
+	3.2 call on tweet button press
+	3.3 pass tweet data back to tweetcontroller to update the UI
+	3.4 pop the view to go back, add the new tweet into array[0] and reloaddata for tableview
+4. tweetview
+	4.1 update tweet model to hold additional properties
+	4.2 autolayout all the icons, buttons, and label (tweet)
+	4.3 button actions
+
+5. main view
+	5.1 add layout
+	5.2 auto height for each cell
+
+OPTIONAL:
+6. update images
+	6.1 add button to move from keyboard to images view
+	6.2 let the user add image tweet

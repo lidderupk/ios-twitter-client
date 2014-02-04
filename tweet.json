@@ -1,0 +1,2272 @@
+
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:42:36 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "i.imgur.com/sVxm8Kg.gif";
+                    "expanded_url" = "http://i.imgur.com/sVxm8Kg.gif";
+                    indices =                     (
+                        46,
+                        68
+                    );
+                    url = "http://t.co/miTaoMq0A6";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 1;
+        favorited = 0;
+        geo = "<null>";
+        id = 429686233866842112;
+        "id_str" = 429686233866842112;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 0;
+        retweeted = 0;
+        source = web;
+        text = "That's some dirty, dirty air, better brush it http://t.co/miTaoMq0A6";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Tue Nov 21 17:20:09 +0000 2006";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "\U0295 \U2022\U1d25\U2022\U0294 Mozilla Developer Evangelist - all things open web, HTML5, writing and working together. #nofilter";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "christianheilmann.com/2013/02/11/hel\U2026";
+                            "expanded_url" = "http://christianheilmann.com/2013/02/11/hello-it-is-me-on-twitter/";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/Dql6jfcKm7";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 68;
+            "follow_request_sent" = 0;
+            "followers_count" = 33870;
+            following = 1;
+            "friends_count" = 1179;
+            "geo_enabled" = 1;
+            id = 13567;
+            "id_str" = 13567;
+            "is_translation_enabled" = 0;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 2838;
+            location = "London, UK";
+            name = "Christian Heilmann ";
+            notifications = 0;
+            "profile_background_color" = 336699;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/64650857/twitterbackground.gif";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/64650857/twitterbackground.gif";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/13567/1357331962";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png";
+            "profile_link_color" = 13456B;
+            "profile_sidebar_border_color" = 86A4A6;
+            "profile_sidebar_fill_color" = B7CCBB;
+            "profile_text_color" = 333333;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = codepo8;
+            "statuses_count" = 77911;
+            "time_zone" = London;
+            url = "http://t.co/Dql6jfcKm7";
+            "utc_offset" = 0;
+            verified = 0;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:41:01 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "bit.ly/1fwWxRu";
+                    "expanded_url" = "http://bit.ly/1fwWxRu";
+                    indices =                     (
+                        87,
+                        109
+                    );
+                    url = "http://t.co/7RAcVHKBYU";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 0;
+        favorited = 0;
+        geo = "<null>";
+        id = 429685839057006593;
+        "id_str" = 429685839057006593;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 1;
+        retweeted = 0;
+        source = "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>";
+        text = "Can Oakland Mayor Jean Quan fix the city's crime problem? Her re-election hinges on it http://t.co/7RAcVHKBYU";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Wed Apr 29 22:55:39 +0000 2009";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "Twitter home of http://t.co/iRJqsc63r7. The authority on all things San Francisco and the Bay Area.";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "sfgate.com";
+                            "expanded_url" = "http://www.sfgate.com";
+                            indices =                             (
+                                16,
+                                38
+                            );
+                            url = "http://t.co/iRJqsc63r7";
+                        }
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "sfgate.com";
+                            "expanded_url" = "http://sfgate.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/ICLiADid3Z";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 169;
+            "follow_request_sent" = 0;
+            "followers_count" = 102459;
+            following = 1;
+            "friends_count" = 175;
+            "geo_enabled" = 1;
+            id = 36511031;
+            "id_str" = 36511031;
+            "is_translation_enabled" = 0;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 4291;
+            location = "San Francisco";
+            name = "SFGate.com";
+            notifications = 0;
+            "profile_background_color" = 131516;
+            "profile_background_image_url" = "http://abs.twimg.com/images/themes/theme14/bg.gif";
+            "profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme14/bg.gif";
+            "profile_background_tile" = 1;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/36511031/1352756509";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/317253774/sfgate_logo_bigger_normal.jpg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/317253774/sfgate_logo_bigger_normal.jpg";
+            "profile_link_color" = 009999;
+            "profile_sidebar_border_color" = EEEEEE;
+            "profile_sidebar_fill_color" = EFEFEF;
+            "profile_text_color" = 333333;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = SFGate;
+            "statuses_count" = 34798;
+            "time_zone" = "Pacific Time (US & Canada)";
+            url = "http://t.co/ICLiADid3Z";
+            "utc_offset" = "-28800";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:40:14 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1emmEKE";
+                    "expanded_url" = "http://huff.to/1emmEKE";
+                    indices =                     (
+                        71,
+                        93
+                    );
+                    url = "http://t.co/1kFgg2sMHb";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 9;
+        favorited = 0;
+        geo = "<null>";
+        id = 429685641581199362;
+        "id_str" = 429685641581199362;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 14;
+        retweeted = 0;
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "Waitress with financial troubles receives \"miracle\" tip on $29.30 bill http://t.co/1kFgg2sMHb";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:35:11 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1eoNXnQ";
+                    "expanded_url" = "http://huff.to/1eoNXnQ";
+                    indices =                     (
+                        79,
+                        101
+                    );
+                    url = "http://t.co/vUIO2Nj2g9";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 6;
+        favorited = 0;
+        geo = "<null>";
+        id = 429684367657803776;
+        "id_str" = 429684367657803776;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 13;
+        retweeted = 0;
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "The search for the home of Obama's presidential library is officially underway http://t.co/vUIO2Nj2g9";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:34:04 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1ft5IBY";
+                    "expanded_url" = "http://huff.to/1ft5IBY";
+                    indices =                     (
+                        80,
+                        102
+                    );
+                    url = "http://t.co/yO8nEb59Kv";
+                }
+            );
+            "user_mentions" =             (
+                                {
+                    id = 185397767;
+                    "id_str" = 185397767;
+                    indices =                     (
+                        3,
+                        15
+                    );
+                    name = HuffPostEducation;
+                    "screen_name" = HuffPostEdu;
+                }
+            );
+        };
+        "favorite_count" = 0;
+        favorited = 0;
+        geo = "<null>";
+        id = 429684086756880384;
+        "id_str" = 429684086756880384;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 16;
+        retweeted = 0;
+        "retweeted_status" =         {
+            contributors = "<null>";
+            coordinates = "<null>";
+            "created_at" = "Sat Feb 01 18:34:03 +0000 2014";
+            entities =             {
+                hashtags =                 (
+                );
+                symbols =                 (
+                );
+                urls =                 (
+                                        {
+                        "display_url" = "huff.to/1ft5IBY";
+                        "expanded_url" = "http://huff.to/1ft5IBY";
+                        indices =                         (
+                            63,
+                            85
+                        );
+                        url = "http://t.co/yO8nEb59Kv";
+                    }
+                );
+                "user_mentions" =                 (
+                );
+            };
+            "favorite_count" = 14;
+            favorited = 0;
+            geo = "<null>";
+            id = 429684085934796801;
+            "id_str" = 429684085934796801;
+            "in_reply_to_screen_name" = "<null>";
+            "in_reply_to_status_id" = "<null>";
+            "in_reply_to_status_id_str" = "<null>";
+            "in_reply_to_user_id" = "<null>";
+            "in_reply_to_user_id_str" = "<null>";
+            lang = en;
+            place = "<null>";
+            "possibly_sensitive" = 0;
+            "retweet_count" = 16;
+            retweeted = 0;
+            source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+            text = "Serious evidence that some teachers are not paid NEARLY enough http://t.co/yO8nEb59Kv";
+            truncated = 0;
+            user =             {
+                "contributors_enabled" = 0;
+                "created_at" = "Tue Aug 31 22:10:39 +0000 2010";
+                "default_profile" = 0;
+                "default_profile_image" = 0;
+                description = "An education news source and online hub for passionate voices. education@huffingtonpost.com";
+                entities =                 {
+                    description =                     {
+                        urls =                         (
+                        );
+                    };
+                    url =                     {
+                        urls =                         (
+                                                        {
+                                "display_url" = "huffingtonpost.com/education";
+                                "expanded_url" = "http://www.huffingtonpost.com/education";
+                                indices =                                 (
+                                    0,
+                                    22
+                                );
+                                url = "http://t.co/aBDZU52nr0";
+                            }
+                        );
+                    };
+                };
+                "favourites_count" = 44;
+                "follow_request_sent" = 0;
+                "followers_count" = 104518;
+                following = 0;
+                "friends_count" = 354;
+                "geo_enabled" = 0;
+                id = 185397767;
+                "id_str" = 185397767;
+                "is_translation_enabled" = 0;
+                "is_translator" = 0;
+                lang = en;
+                "listed_count" = 2828;
+                location = "";
+                name = HuffPostEducation;
+                notifications = 0;
+                "profile_background_color" = D3880E;
+                "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/668539662/e563e6870b425c92306ae6009114036d.png";
+                "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/668539662/e563e6870b425c92306ae6009114036d.png";
+                "profile_background_tile" = 0;
+                "profile_banner_url" = "https://pbs.twimg.com/profile_banners/185397767/1348524921";
+                "profile_image_url" = "http://pbs.twimg.com/profile_images/1134000693/huffpost_edu_twitter_avatar_normal.png";
+                "profile_image_url_https" = "https://pbs.twimg.com/profile_images/1134000693/huffpost_edu_twitter_avatar_normal.png";
+                "profile_link_color" = EFB200;
+                "profile_sidebar_border_color" = FFFFFF;
+                "profile_sidebar_fill_color" = DDEEF6;
+                "profile_text_color" = 333333;
+                "profile_use_background_image" = 1;
+                protected = 0;
+                "screen_name" = HuffPostEdu;
+                "statuses_count" = 21409;
+                "time_zone" = "Central Time (US & Canada)";
+                url = "http://t.co/aBDZU52nr0";
+                "utc_offset" = "-21600";
+                verified = 1;
+            };
+        };
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "RT @HuffPostEdu: Serious evidence that some teachers are not paid NEARLY enough http://t.co/yO8nEb59Kv";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:31:41 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "thebolditalic.com/articles/4270-\U2026";
+                    "expanded_url" = "http://www.thebolditalic.com/articles/4270-is-it-ever-ok-for-gay-guys-to-use-the-c-word-";
+                    indices =                     (
+                        72,
+                        94
+                    );
+                    url = "http://t.co/yX13eDPBzm";
+                }
+            );
+            "user_mentions" =             (
+                                {
+                    id = 14408639;
+                    "id_str" = 14408639;
+                    indices =                     (
+                        60,
+                        71
+                    );
+                    name = "Peter Lawrence Kane";
+                    "screen_name" = WannaCyber;
+                }
+            );
+        };
+        "favorite_count" = 0;
+        favorited = 0;
+        geo = "<null>";
+        id = 429683489881866240;
+        "id_str" = 429683489881866240;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 0;
+        retweeted = 0;
+        source = "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>";
+        text = "GOOD READ: Is It Ever Ok For Gay Guys to Use The C-Word? by @WannaCyber http://t.co/yX13eDPBzm";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Fri Aug 28 19:27:08 +0000 2009";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "The Bold Italic is an online magazine and events hub that celebrates the free-wheeling spirit of city living.";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "thebolditalic.com";
+                            "expanded_url" = "http://thebolditalic.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/1UQqFrkSED";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 1574;
+            "follow_request_sent" = 0;
+            "followers_count" = 31472;
+            following = 1;
+            "friends_count" = 4340;
+            "geo_enabled" = 1;
+            id = 69671781;
+            "id_str" = 69671781;
+            "is_translation_enabled" = 0;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 989;
+            location = "San Francisco, CA";
+            name = "The Bold Italic";
+            notifications = 0;
+            "profile_background_color" = FFFFFF;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/45889228/twitterbackground2.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/45889228/twitterbackground2.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/69671781/1386025220";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000437005416/1b0b5f180dc596b8163c49cdbb5ae371_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000437005416/1b0b5f180dc596b8163c49cdbb5ae371_normal.jpeg";
+            "profile_link_color" = 00BBFF;
+            "profile_sidebar_border_color" = 00BBFF;
+            "profile_sidebar_fill_color" = D0F1FE;
+            "profile_text_color" = 333333;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = thebolditalic;
+            "statuses_count" = 8604;
+            "time_zone" = "Pacific Time (US & Canada)";
+            url = "http://t.co/1UQqFrkSED";
+            "utc_offset" = "-28800";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:30:32 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1fl0Xds";
+                    "expanded_url" = "http://huff.to/1fl0Xds";
+                    indices =                     (
+                        50,
+                        72
+                    );
+                    url = "http://t.co/marjDkNKaT";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 12;
+        favorited = 0;
+        geo = "<null>";
+        id = 429683200689197057;
+        "id_str" = 429683200689197057;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 0;
+        retweeted = 0;
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "Former \"High School Musical\" star is all grown up http://t.co/marjDkNKaT";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:21:05 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1fwLxD3";
+                    "expanded_url" = "http://huff.to/1fwLxD3";
+                    indices =                     (
+                        86,
+                        108
+                    );
+                    url = "http://t.co/iWQSI8QPmK";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 6;
+        favorited = 0;
+        geo = "<null>";
+        id = 429680819108446208;
+        "id_str" = 429680819108446208;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 11;
+        retweeted = 0;
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "Trump on possible governor's run: if the GOP \"can't unify, I have other things to do\" http://t.co/iWQSI8QPmK";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:16:05 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1em2oZH";
+                    "expanded_url" = "http://huff.to/1em2oZH";
+                    indices =                     (
+                        86,
+                        108
+                    );
+                    url = "http://t.co/Czr6yLxmWo";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 43;
+        favorited = 0;
+        geo = "<null>";
+        id = 429679562075930624;
+        "id_str" = 429679562075930624;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 59;
+        retweeted = 0;
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "Amy Poehler on female celebrities feeling wary of the word feminism: \"I don't get it\" http://t.co/Czr6yLxmWo";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:12:34 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "tcrn.ch/LAUXmR";
+                    "expanded_url" = "http://tcrn.ch/LAUXmR";
+                    indices =                     (
+                        28,
+                        50
+                    );
+                    url = "http://t.co/xpvgmXNyzv";
+                }
+            );
+            "user_mentions" =             (
+                                {
+                    id = 1454021;
+                    "id_str" = 1454021;
+                    indices =                     (
+                        54,
+                        67
+                    );
+                    name = "Steve Gillmor";
+                    "screen_name" = stevegillmor;
+                }
+            );
+        };
+        "favorite_count" = 1;
+        favorited = 0;
+        geo = "<null>";
+        id = 429678676578676736;
+        "id_str" = 429678676578676736;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 17;
+        retweeted = 0;
+        source = "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>";
+        text = "Gillmor Gang: Brand Royalty http://t.co/xpvgmXNyzv by @stevegillmor";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Wed Mar 07 01:27:09 +0000 2007";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "Breaking Technology News And Opinions From TechCrunch";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "techcrunch.com";
+                            "expanded_url" = "http://techcrunch.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/FQzFJNIg8e";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 43;
+            "follow_request_sent" = 0;
+            "followers_count" = 3275424;
+            following = 1;
+            "friends_count" = 835;
+            "geo_enabled" = 1;
+            id = 816653;
+            "id_str" = 816653;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 84115;
+            location = "Silicon Valley";
+            name = TechCrunch;
+            notifications = 0;
+            "profile_background_color" = 149500;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/378800000169936782/5iJB-ZN4.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/378800000169936782/5iJB-ZN4.png";
+            "profile_background_tile" = 0;
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/2176846885/-5-1_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/2176846885/-5-1_normal.jpeg";
+            "profile_link_color" = 0888C4;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = DDFFCC;
+            "profile_text_color" = 222222;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = TechCrunch;
+            "statuses_count" = 67763;
+            "time_zone" = "Pacific Time (US & Canada)";
+            url = "http://t.co/FQzFJNIg8e";
+            "utc_offset" = "-28800";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:11:36 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "washingtonpost.com/blogs/wonkblog\U2026";
+                    "expanded_url" = "http://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/27/researchers-take-on-crucial-question-are-haters-gonna-hate/";
+                    indices =                     (
+                        49,
+                        71
+                    );
+                    url = "http://t.co/qKw4hUyhs3";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 4;
+        favorited = 0;
+        geo = "<null>";
+        id = 429678432952152064;
+        "id_str" = 429678432952152064;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place =         {
+            attributes =             {
+            };
+            "bounding_box" =             {
+                coordinates =                 (
+                                        (
+                                                (
+                            "-88.070876",
+                            "42.920823"
+                        ),
+                                                (
+                            "-87.86328399999999",
+                            "42.920823"
+                        ),
+                                                (
+                            "-87.86328399999999",
+                            "43.19496"
+                        ),
+                                                (
+                            "-88.070876",
+                            "43.19496"
+                        )
+                    )
+                );
+                type = Polygon;
+            };
+            "contained_within" =             (
+            );
+            country = "United States";
+            "country_code" = US;
+            "full_name" = "Milwaukee, WI";
+            id = 2a93711775303f90;
+            name = Milwaukee;
+            "place_type" = city;
+            url = "https://api.twitter.com/1.1/geo/id/2a93711775303f90.json";
+        };
+        "possibly_sensitive" = 0;
+        "retweet_count" = 9;
+        retweeted = 0;
+        source = "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>";
+        text = "Research that haters are indeed going to hate :: http://t.co/qKw4hUyhs3";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Sun Feb 25 16:02:22 +0000 2007";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "Designer @CodePen. Writer @Real_CSS_Tricks. Podcaster @ShopTalkShow.
+\n
+\nLead Hucklebucker.";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "css-tricks.com";
+                            "expanded_url" = "http://css-tricks.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/QklWEDl7ps";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 9156;
+            "follow_request_sent" = 0;
+            "followers_count" = 100540;
+            following = 1;
+            "friends_count" = 945;
+            "geo_enabled" = 1;
+            id = 793830;
+            "id_str" = 793830;
+            "is_translation_enabled" = 0;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 6432;
+            location = "Milwaukee, Wisconsin";
+            name = "Chris Coyier";
+            notifications = 0;
+            "profile_background_color" = 000000;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/63818788/twitter-bg.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/63818788/twitter-bg.png";
+            "profile_background_tile" = 1;
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/427865524995764224/hPaXmUDg_normal.png";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/427865524995764224/hPaXmUDg_normal.png";
+            "profile_link_color" = 008FBF;
+            "profile_sidebar_border_color" = A8A8A8;
+            "profile_sidebar_fill_color" = E6E6E6;
+            "profile_text_color" = 292929;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = chriscoyier;
+            "statuses_count" = 21471;
+            "time_zone" = "Central Time (US & Canada)";
+            url = "http://t.co/QklWEDl7ps";
+            "utc_offset" = "-21600";
+            verified = 0;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:11:05 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1fwJuyN";
+                    "expanded_url" = "http://huff.to/1fwJuyN";
+                    indices =                     (
+                        96,
+                        118
+                    );
+                    url = "http://t.co/Lv4rgXnjgi";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 9;
+        favorited = 0;
+        geo = "<null>";
+        id = 429678305210822656;
+        "id_str" = 429678305210822656;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 9;
+        retweeted = 0;
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "Behold, the hottest football wives and girlfriends to distract you from the Super Bowl (PHOTOS) http://t.co/Lv4rgXnjgi";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:09:18 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "instagram.com/p/j4guwBRlvf/";
+                    "expanded_url" = "http://instagram.com/p/j4guwBRlvf/";
+                    indices =                     (
+                        23,
+                        45
+                    );
+                    url = "http://t.co/UXCrmxeCaV";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 0;
+        favorited = 0;
+        geo = "<null>";
+        id = 429677853794631681;
+        "id_str" = 429677853794631681;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 1;
+        retweeted = 0;
+        source = "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>";
+        text = "one direction tissues? http://t.co/UXCrmxeCaV";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Tue Nov 21 17:20:09 +0000 2006";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "\U0295 \U2022\U1d25\U2022\U0294 Mozilla Developer Evangelist - all things open web, HTML5, writing and working together. #nofilter";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "christianheilmann.com/2013/02/11/hel\U2026";
+                            "expanded_url" = "http://christianheilmann.com/2013/02/11/hello-it-is-me-on-twitter/";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/Dql6jfcKm7";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 68;
+            "follow_request_sent" = 0;
+            "followers_count" = 33870;
+            following = 1;
+            "friends_count" = 1179;
+            "geo_enabled" = 1;
+            id = 13567;
+            "id_str" = 13567;
+            "is_translation_enabled" = 0;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 2838;
+            location = "London, UK";
+            name = "Christian Heilmann ";
+            notifications = 0;
+            "profile_background_color" = 336699;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/64650857/twitterbackground.gif";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/64650857/twitterbackground.gif";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/13567/1357331962";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/1666904408/codepo8_normal.png";
+            "profile_link_color" = 13456B;
+            "profile_sidebar_border_color" = 86A4A6;
+            "profile_sidebar_fill_color" = B7CCBB;
+            "profile_text_color" = 333333;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = codepo8;
+            "statuses_count" = 77911;
+            "time_zone" = London;
+            url = "http://t.co/Dql6jfcKm7";
+            "utc_offset" = 0;
+            verified = 0;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:06:04 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1eoK9CU";
+                    "expanded_url" = "http://huff.to/1eoK9CU";
+                    indices =                     (
+                        57,
+                        79
+                    );
+                    url = "http://t.co/uOKi3Hde82";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 7;
+        favorited = 0;
+        geo = "<null>";
+        id = 429677042549145600;
+        "id_str" = 429677042549145600;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 4;
+        retweeted = 0;
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "Need to catch up on your celebrity news? Look no further http://t.co/uOKi3Hde82";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:03:59 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "news.kron4.com/?p=42077";
+                    "expanded_url" = "http://news.kron4.com/?p=42077";
+                    indices =                     (
+                        65,
+                        87
+                    );
+                    url = "http://t.co/O3l4YY0bfK";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 0;
+        favorited = 0;
+        geo = "<null>";
+        id = 429676516583014401;
+        "id_str" = 429676516583014401;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 0;
+        retweeted = 0;
+        source = web;
+        text = "Driver leads CHP on chase in the east bay, suspect still wanted: http://t.co/O3l4YY0bfK";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Jan 15 17:59:10 +0000 2009";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "KRON 4, The Bay Area's News Station";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "kron4.com";
+                            "expanded_url" = "http://www.kron4.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/7IE9I8VVGb";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 35;
+            "follow_request_sent" = 0;
+            "followers_count" = 31001;
+            following = 1;
+            "friends_count" = 1214;
+            "geo_enabled" = 0;
+            id = 19031057;
+            "id_str" = 19031057;
+            "is_translation_enabled" = 0;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 1389;
+            location = "San Francisco Bay Area";
+            name = "KRON 4 News";
+            notifications = 0;
+            "profile_background_color" = BD1B2E;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/571507077/t9mws149qtue9qkjd3ps.jpeg";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/571507077/t9mws149qtue9qkjd3ps.jpeg";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/19031057/1358800768";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000639069470/6d4b41afcb0ad5e5d5fd04dc68787a4d_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000639069470/6d4b41afcb0ad5e5d5fd04dc68787a4d_normal.jpeg";
+            "profile_link_color" = 0084B4;
+            "profile_sidebar_border_color" = BDDCAD;
+            "profile_sidebar_fill_color" = DDFFCC;
+            "profile_text_color" = 333333;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = kron4news;
+            "statuses_count" = 32961;
+            "time_zone" = "Pacific Time (US & Canada)";
+            url = "http://t.co/7IE9I8VVGb";
+            "utc_offset" = "-28800";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 18:02:09 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1emviJ4";
+                    "expanded_url" = "http://huff.to/1emviJ4";
+                    indices =                     (
+                        84,
+                        106
+                    );
+                    url = "http://t.co/sEPQg0pF6f";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 22;
+        favorited = 0;
+        geo = "<null>";
+        id = 429676054538883072;
+        "id_str" = 429676054538883072;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 50;
+        retweeted = 0;
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "It's been 10 years since Janet Jackson's infamous Super Bowl \"wardrobe malfunction\" http://t.co/sEPQg0pF6f";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 17:55:06 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1fw9RFa";
+                    "expanded_url" = "http://huff.to/1fw9RFa";
+                    indices =                     (
+                        52,
+                        74
+                    );
+                    url = "http://t.co/nzWdAvgOoc";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 51;
+        favorited = 0;
+        geo = "<null>";
+        id = 429674281694670848;
+        "id_str" = 429674281694670848;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 87;
+        retweeted = 0;
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "Legal weed causing sky-high travel demand to Denver http://t.co/nzWdAvgOoc";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates =         {
+            coordinates =             (
+                "-76.75398388000001",
+                "39.95522173"
+            );
+            type = Point;
+        };
+        "created_at" = "Sat Feb 01 17:51:02 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "4sq.com/1aQba38";
+                    "expanded_url" = "http://4sq.com/1aQba38";
+                    indices =                     (
+                        36,
+                        58
+                    );
+                    url = "http://t.co/qAl0C8vi93";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 0;
+        favorited = 0;
+        geo =         {
+            coordinates =             (
+                "39.95522173",
+                "-76.75398388000001"
+            );
+            type = Point;
+        };
+        id = 429673260482301952;
+        "id_str" = 429673260482301952;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place =         {
+            attributes =             {
+            };
+            "bounding_box" =             {
+                coordinates =                 (
+                                        (
+                                                (
+                            "-76.835594",
+                            "39.894639"
+                        ),
+                                                (
+                            "-76.730328",
+                            "39.894639"
+                        ),
+                                                (
+                            "-76.730328",
+                            "40.000697"
+                        ),
+                                                (
+                            "-76.835594",
+                            "40.000697"
+                        )
+                    )
+                );
+                type = Polygon;
+            };
+            "contained_within" =             (
+            );
+            country = "United States";
+            "country_code" = US;
+            "full_name" = "West Manchester, PA";
+            id = d1fb60515f6bb781;
+            name = "West Manchester";
+            "place_type" = city;
+            url = "https://api.twitter.com/1.1/geo/id/d1fb60515f6bb781.json";
+        };
+        "possibly_sensitive" = 0;
+        "retweet_count" = 0;
+        retweeted = 0;
+        source = "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>";
+        text = "I'm at Hibrewnation w/ @hennaedwolf http://t.co/qAl0C8vi93";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Sat Dec 09 01:37:40 +0000 2006";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "80% angel, 10% daemon, the rest is hard to explain.";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "avdi.org";
+                            "expanded_url" = "http://avdi.org";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/vCUY54FsV1";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 1081;
+            "follow_request_sent" = 0;
+            "followers_count" = 11023;
+            following = 1;
+            "friends_count" = 2253;
+            "geo_enabled" = 1;
+            id = 52593;
+            "id_str" = 52593;
+            "is_translation_enabled" = 0;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 662;
+            location = "York, PA";
+            name = "Avdi Grimm";
+            notifications = 0;
+            "profile_background_color" = 9AE4E8;
+            "profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+            "profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+            "profile_background_tile" = 0;
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/1220139277/avdi-headshot-rep3-2010-square-tight_normal.jpg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/1220139277/avdi-headshot-rep3-2010-square-tight_normal.jpg";
+            "profile_link_color" = 0000FF;
+            "profile_sidebar_border_color" = 87BC44;
+            "profile_sidebar_fill_color" = E0FF92;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = avdi;
+            "statuses_count" = 35416;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/vCUY54FsV1";
+            "utc_offset" = "-18000";
+            verified = 0;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 17:50:06 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "huff.to/1fwGnqP";
+                    "expanded_url" = "http://huff.to/1fwGnqP";
+                    indices =                     (
+                        86,
+                        108
+                    );
+                    url = "http://t.co/nSMK9rb9nl";
+                }
+            );
+            "user_mentions" =             (
+            );
+        };
+        "favorite_count" = 30;
+        favorited = 0;
+        geo = "<null>";
+        id = 429673025471258626;
+        "id_str" = 429673025471258626;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 31;
+        retweeted = 0;
+        source = "<a href=\"http://www.huffingtonpost.com\" rel=\"nofollow\">The Huffington Post</a>";
+        text = "Special Seahawks plane flew all over Washington just to get in the Super Bowl spirit  http://t.co/nSMK9rb9nl";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Thu Apr 24 14:07:28 +0000 2008";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "internet lovers | sleep believers | news addicts | big font obsessives | greek yogurt fans";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "huffingtonpost.com";
+                            "expanded_url" = "http://www.huffingtonpost.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/3UKdtIBbrK";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 242;
+            "follow_request_sent" = 0;
+            "followers_count" = 3804149;
+            following = 1;
+            "friends_count" = 5491;
+            "geo_enabled" = 1;
+            id = 14511951;
+            "id_str" = 14511951;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 65426;
+            location = "";
+            name = "Huffington Post";
+            notifications = 0;
+            "profile_background_color" = 2E7060;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/662779208/drm9hjltviedp5of1mft.png";
+            "profile_background_tile" = 0;
+            "profile_banner_url" = "https://pbs.twimg.com/profile_banners/14511951/1390965996";
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/378800000097342833/829b10206ae1092858ce1ad85a061b9f_normal.jpeg";
+            "profile_link_color" = 015E50;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = E3E2DE;
+            "profile_text_color" = 000000;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = HuffingtonPost;
+            "statuses_count" = 305583;
+            "time_zone" = "Eastern Time (US & Canada)";
+            url = "http://t.co/3UKdtIBbrK";
+            "utc_offset" = "-18000";
+            verified = 1;
+        };
+    },
+        {
+        contributors = "<null>";
+        coordinates = "<null>";
+        "created_at" = "Sat Feb 01 17:46:18 +0000 2014";
+        entities =         {
+            hashtags =             (
+            );
+            symbols =             (
+            );
+            urls =             (
+                                {
+                    "display_url" = "tcrn.ch/1iYTepr";
+                    "expanded_url" = "http://tcrn.ch/1iYTepr";
+                    indices =                     (
+                        78,
+                        100
+                    );
+                    url = "http://t.co/SNZScLwi6h";
+                }
+            );
+            "user_mentions" =             (
+                                {
+                    id = 15425183;
+                    "id_str" = 15425183;
+                    indices =                     (
+                        104,
+                        113
+                    );
+                    name = "Darrell Etherington";
+                    "screen_name" = drizzled;
+                }
+            );
+        };
+        "favorite_count" = 11;
+        favorited = 0;
+        geo = "<null>";
+        id = 429672067601289216;
+        "id_str" = 429672067601289216;
+        "in_reply_to_screen_name" = "<null>";
+        "in_reply_to_status_id" = "<null>";
+        "in_reply_to_status_id_str" = "<null>";
+        "in_reply_to_user_id" = "<null>";
+        "in_reply_to_user_id_str" = "<null>";
+        lang = en;
+        place = "<null>";
+        "possibly_sensitive" = 0;
+        "retweet_count" = 32;
+        retweeted = 0;
+        source = "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>";
+        text = "Boombotix Raises $4M For Its Wearable Action Speakers And Audio Sync Software http://t.co/SNZScLwi6h by @drizzled";
+        truncated = 0;
+        user =         {
+            "contributors_enabled" = 0;
+            "created_at" = "Wed Mar 07 01:27:09 +0000 2007";
+            "default_profile" = 0;
+            "default_profile_image" = 0;
+            description = "Breaking Technology News And Opinions From TechCrunch";
+            entities =             {
+                description =                 {
+                    urls =                     (
+                    );
+                };
+                url =                 {
+                    urls =                     (
+                                                {
+                            "display_url" = "techcrunch.com";
+                            "expanded_url" = "http://techcrunch.com";
+                            indices =                             (
+                                0,
+                                22
+                            );
+                            url = "http://t.co/FQzFJNIg8e";
+                        }
+                    );
+                };
+            };
+            "favourites_count" = 43;
+            "follow_request_sent" = 0;
+            "followers_count" = 3275424;
+            following = 1;
+            "friends_count" = 835;
+            "geo_enabled" = 1;
+            id = 816653;
+            "id_str" = 816653;
+            "is_translation_enabled" = 1;
+            "is_translator" = 0;
+            lang = en;
+            "listed_count" = 84115;
+            location = "Silicon Valley";
+            name = TechCrunch;
+            notifications = 0;
+            "profile_background_color" = 149500;
+            "profile_background_image_url" = "http://a0.twimg.com/profile_background_images/378800000169936782/5iJB-ZN4.png";
+            "profile_background_image_url_https" = "https://si0.twimg.com/profile_background_images/378800000169936782/5iJB-ZN4.png";
+            "profile_background_tile" = 0;
+            "profile_image_url" = "http://pbs.twimg.com/profile_images/2176846885/-5-1_normal.jpeg";
+            "profile_image_url_https" = "https://pbs.twimg.com/profile_images/2176846885/-5-1_normal.jpeg";
+            "profile_link_color" = 0888C4;
+            "profile_sidebar_border_color" = FFFFFF;
+            "profile_sidebar_fill_color" = DDFFCC;
+            "profile_text_color" = 222222;
+            "profile_use_background_image" = 1;
+            protected = 0;
+            "screen_name" = TechCrunch;
+            "statuses_count" = 67763;
+            "time_zone" = "Pacific Time (US & Canada)";
+            url = "http://t.co/FQzFJNIg8e";
+            "utc_offset" = "-28800";
+            verified = 1;
+        };
+    }
