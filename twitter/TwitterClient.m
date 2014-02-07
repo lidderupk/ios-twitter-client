@@ -71,9 +71,6 @@ static NSString * const kAccessTokenKey = @"kAccessTokenKey";
 {
     NSLog(@"Posting status with text %@ replyId %@", text, replyStatusId);
     NSMutableDictionary *params = [NSMutableDictionary dictionaryWithDictionary:@{@"status": text}];
-//    if (![replyStatusId isEqualToString:@"0"]) {
-//        [params setObject:replyStatusId forKey:@"in_reply_to_status_id"];
-//    }
     [self postPath:@"1.1/statuses/update.json" parameters:params success:success failure:failure];
 }
 

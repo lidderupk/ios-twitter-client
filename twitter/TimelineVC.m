@@ -15,7 +15,7 @@
 @interface TimelineVC ()
 
 @property (nonatomic, strong) NSMutableArray *tweets;
-@property (nonatomic, retain) NSNumber* currentSinceId;
+@property (nonatomic, assign) long long currentSinceId;
 @property (nonatomic, retain) UIRefreshControl *refreshControl;
 @property (nonatomic, strong) TweetCell *prototypeCell;
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *retweetViewHeight;
@@ -33,7 +33,7 @@
     self = [super initWithStyle:style];
     if (self) {
         self.title = @"Twitter";
-        self.currentSinceId = [[NSNumber alloc]init];
+        self.currentSinceId = 0;
         [self reload];
     }
     return self;
@@ -213,14 +213,16 @@
 }
 
 - (void)reload {
+    NSLog(@"reload started: %lld", self.currentSinceId);
     [[TwitterClient instance] homeTimelineWithCount:20 sinceId:0 maxId:0 success:^(AFHTTPRequestOperation *operation, id response) {
         self.tweets = [Tweet tweetsWithArray:response];
         Tweet *lastTweet = self.tweets[self.tweets.count - 1];
         
         NSLog(@"reload last tweet: %@", lastTweet.text);
 
-        self.currentSinceId = [NSNumber numberWithInt:[lastTweet.tweetId integerValue]];
+        self.currentSinceId = [lastTweet.tweetId longLongValue];
         [self.tableView reloadData];
+            NSLog(@"reload ending success: %lld", self.currentSinceId);
     } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
         // Do nothing
         NSLog(@"unable to fetch tweets: %@", error);
@@ -229,13 +231,16 @@
 }
 
 - (void)reloadNext {
-    [[TwitterClient instance] homeTimelineWithCount:20 sinceId:[self.currentSinceId intValue] maxId:0 success:^(AFHTTPRequestOperation *operation, id response) {
+    NSLog(@"reloadNext started: %lld", self.currentSinceId);
+    [[TwitterClient instance] homeTimelineWithCount:20 sinceId:self.currentSinceId maxId:0 success:^(AFHTTPRequestOperation *operation, id response) {
         NSArray *moreTweets = [Tweet tweetsWithArray:response];
         [self.tweets addObjectsFromArray:moreTweets];
-        Tweet *lastTweet = self.tweets[self.tweets.count - 1];
+        Tweet *lastTweet = moreTweets[moreTweets.count - 1];
         NSLog(@"reloadNext last tweet: %@", lastTweet.text);
-        self.currentSinceId = [NSNumber numberWithInt:[lastTweet.tweetId integerValue]];
+        NSLog(@"reloadNext last tweet id: %@", lastTweet.tweetId);
+        self.currentSinceId = [lastTweet.tweetId longLongValue];
         [self.tableView reloadData];
+        NSLog(@"reloadNext ending success: %lld", self.currentSinceId);
     } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
         // Do nothing
     }];

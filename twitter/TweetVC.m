@@ -32,7 +32,7 @@
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
-
+        
     }
     return self;
 }
@@ -43,10 +43,27 @@
     //load data into fields
     [self configureTweetView];
     
-    //hide the retweet view for now. 
+    //hide the retweet view for now.
     self.retweetViewHeight.constant = 0;
     self.retweetImageHeight.constant = 0;
     self.retweetUserNameHeight.constant = 0;
+    
+    [[NSNotificationCenter defaultCenter] addObserver:self
+                                             selector:@selector(tweetFavorited:)
+                                                 name:TWEET_FAVORITE_EVENT
+                                               object:nil];
+    
+    [[NSNotificationCenter defaultCenter] addObserver:self
+                                             selector:@selector(tweetFavorited:)
+                                                 name:TWEET_UNFAVORITE_EVENT
+                                               object:nil];
+}
+
+- (void)tweetFavorited:(NSNotification *)notification {
+    //get the tweet, could have just passed the favorite count instead of the whole tweet !
+    Tweet *tweet = [[notification userInfo] valueForKey:@"tweet"] ;
+    self.numFavLabel.text = [tweet.numFavorite stringValue];
+    NSLog(@"tweetFavorited: a tweet was favorited!");
 }
 
 -(void)configureTweetView{
@@ -58,7 +75,7 @@
     NSURL *url = [NSURL URLWithString:[self.tweet imageURLFromTweet]];
     [self.tweetUserImageView setImageWithURL:url];
     self.numFavLabel.text = [[self.tweet valueOrNilForKeyPath:@"favorite_count"] stringValue];
-    }
+}
 
 -(NSDate*)dateFromTweetAttribute:(NSString*)attr {
     NSDateFormatter *df = [[NSDateFormatter alloc] init];
@@ -81,7 +98,7 @@
         
     }
     else{
-        self.tweet.numFavorite = [NSNumber numberWithInt:[self.tweet.numFavorite intValue]+1];
+        self.tweet.numFavorite = [NSNumber numberWithInt:[self.tweet.numFavorite intValue]-1];
         self.tweet.isFavorite = [NSNumber numberWithBool:NO];
         [[TwitterClient instance] markUnFavWithStatus:self.tweet.tweetId success:nil failure:nil];
         [self.tweetFavButton setImage:[UIImage imageNamed:@"Favorite-black.png"] forState:UIControlStateNormal];

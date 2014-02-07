@@ -30,6 +30,7 @@
 		42CC89B917B0D7DD00B6D34B /* NSDictionary+CPAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 42CC89B817B0D7DD00B6D34B /* NSDictionary+CPAdditions.m */; };
 		42CC89BF17B0F02600B6D34B /* TweetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 42CC89BE17B0F02600B6D34B /* TweetCell.m */; };
 		4A2D263314064B2DA5BDFE0E /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CCC1DF52D3B94E9285F4C2F7 /* libPods.a */; };
+		A8A39EA718A563D400EE65BD /* OCMockitoIOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A8A39EA618A563D400EE65BD /* OCMockitoIOS.framework */; };
 		A8AF0D2C189DAD230021DF54 /* TweetVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A8AF0D2A189DAD230021DF54 /* TweetVC.m */; };
 		A8AF0D2D189DAD230021DF54 /* TweetVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = A8AF0D2B189DAD230021DF54 /* TweetVC.xib */; };
 		A8EEBAC31898D22F006E7F19 /* ComposeTweetVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A8EEBAC11898D22F006E7F19 /* ComposeTweetVC.m */; };
@@ -88,6 +89,7 @@
 		42CC89BE17B0F02600B6D34B /* TweetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TweetCell.m; sourceTree = "<group>"; };
 		42CC89C017B0F03E00B6D34B /* TweetCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TweetCell.xib; sourceTree = "<group>"; };
 		6D8D3D6E0083406F961146BD /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
+		A8A39EA618A563D400EE65BD /* OCMockitoIOS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OCMockitoIOS.framework; path = "../../../Downloads/OCMockito-1.1.0/OCMockitoIOS.framework"; sourceTree = "<group>"; };
 		A8AF0D29189DAD230021DF54 /* TweetVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TweetVC.h; sourceTree = "<group>"; };
 		A8AF0D2A189DAD230021DF54 /* TweetVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TweetVC.m; sourceTree = "<group>"; };
 		A8AF0D2B189DAD230021DF54 /* TweetVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TweetVC.xib; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				42CC894517AF4C6B00B6D34B /* XCTest.framework in Frameworks */,
+				A8A39EA718A563D400EE65BD /* OCMockitoIOS.framework in Frameworks */,
 				42CC894717AF4C6B00B6D34B /* UIKit.framework in Frameworks */,
 				42CC894617AF4C6B00B6D34B /* Foundation.framework in Frameworks */,
 			);
@@ -150,6 +153,7 @@
 		42CC892A17AF4C6A00B6D34B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A8A39EA618A563D400EE65BD /* OCMockitoIOS.framework */,
 				42CC892B17AF4C6A00B6D34B /* Foundation.framework */,
 				42CC892D17AF4C6A00B6D34B /* CoreGraphics.framework */,
 				42CC892F17AF4C6A00B6D34B /* UIKit.framework */,
@@ -573,6 +577,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"/Users/ulidder/Downloads/OCMockito-1.1.0",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "twitter/twitter-Prefix.pch";
@@ -595,6 +600,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"/Users/ulidder/Downloads/OCMockito-1.1.0",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "twitter/twitter-Prefix.pch";

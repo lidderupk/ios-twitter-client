@@ -8,6 +8,9 @@
 
 #import "Tweet.h"
 
+NSString * const TWEET_FAVORITE_EVENT = @"TWEET_FAVORITE_EVENT";
+NSString * const TWEET_UNFAVORITE_EVENT = @"TWEET_UNFAVORITE_EVENT";
+
 @interface Tweet()
 //declare private methods
 +(void)printDictionaryForTweet:(NSDictionary*)tweet;
@@ -28,7 +31,7 @@
 
 + (NSMutableArray *)tweetsWithArray:(NSArray *)array {
     NSMutableArray *tweets = [[NSMutableArray alloc] initWithCapacity:array.count];
-//    [self printDictionaryForTweet:array[0]];
+    //    [self printDictionaryForTweet:array[0]];
     for (NSDictionary *params in array) {
         [tweets addObject:[[Tweet alloc] initWithDictionary:params]];
     }
@@ -109,9 +112,9 @@
 
 - (void)setNumFavorite:(NSNumber *)numFavorite
 {
-        NSLog(@"%s", object_getClassName([self.data class]));
+    NSLog(@"%s", object_getClassName([self.data class]));
     [self.data setValue:numFavorite forKey:@"favorite_count"];
-
+    
 }
 
 - (NSNumber *)isFavorite
@@ -121,7 +124,19 @@
 
 - (void)setIsFavorite:(NSNumber *)isFav
 {
+    NSString *eventName = TWEET_FAVORITE_EVENT;
     [self.data setValue:[NSNumber numberWithBool:[isFav boolValue]] forKey:@"favorited"];
+    
+    if([isFav isEqual:@(0)]){
+        
+        eventName = TWEET_UNFAVORITE_EVENT;
+    }
+    
+    NSLog(@"Sending %@ event", eventName);
+    NSDictionary *dict = @{@"tweet": self};
+    [[NSNotificationCenter defaultCenter] postNotificationName:eventName
+                                                        object:nil
+                                                        userInfo:dict];
 }
 
 - (NSString *)tweetId

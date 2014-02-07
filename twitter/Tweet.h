@@ -11,6 +11,9 @@
 
 @interface Tweet : RestObject
 
+extern NSString * const TWEET_FAVORITE_EVENT;
+extern NSString * const TWEET_UNFAVORITE_EVENT;
+
 @property (nonatomic, strong) NSString *text;
 //@property (nonatomic, assign) NSNumber* sinceID;
 
